@@ -1,6 +1,6 @@
 <h1>ZEK-blv & ZEK-danmaku</h1>
 
-<p><strong>一个简单的b站直播工具（即将加入ZEK-niri）</strong><br />
+<p><strong>一个简单的b站直播工具（已加入ZEK-niri）</strong><br />
 
 ![工具页面](preview/mark-shot-20261011-101036.png)
 
