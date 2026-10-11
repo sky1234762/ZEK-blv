@@ -1,0 +1,35 @@
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# ============ 编辑器 / IDE ============
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+*~
+*.bak
+*.orig
+*.rej
+
+# ============ 系统 ============
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============ 运行时产物（正常写在 ~/.config / ~/.cache，这里兜底）============
+*.log
+*.pid
+config.json
+
+# ============ 大文件 / 截图预览 ============
+# 预览截图较大（几 MB），默认不纳入仓库；想把预览图一起提交就注释掉下面这行
+preview/
